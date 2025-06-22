@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
+.navbar {
+  position: relative;
+  width: 100%;
+  background-color: #101010;
+  z-index: 99;
+  padding: 0 40px;
+}
+.navbar__container {
+  width: 100%;
+  display: flex;
+  max-width: 69.375rem;
+  height: 5.625rem;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  margin: 0 auto;
+  border-bottom: 1px solid rgba(250, 250, 250, 0.164);
+}
+.navbar__logo {
+  position: absolute;
+  left: 0;
+}
+.navbar__items {
+  display: flex;
+  color: #FFFFFF;
+  list-style: none;
+  gap: 30px;
+  font-size: 14px;
+  letter-spacing: 2px;
+  font-weight: 600;
+}
+.navbar li:hover {
+  color: #D87D4A;
+}
+.navbar__cart {
+  position: absolute;
+  right: 0;
+}/*# sourceMappingURL=navbar.css.map */
