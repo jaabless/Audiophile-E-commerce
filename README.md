@@ -1,16 +1,46 @@
+# Audiophile E-commerce Website
+
+A multi-page, responsive e-commerce website built using **HTML**, **CSS**, and **JavaScript**. This project replicates the Audiophile store's layout and functionality, including a shopping cart system, checkout flow, and responsive design.
+
+---
+
+## 🚀 Features
+
+- ✅ Responsive layout for desktop, tablet, and mobile
+- ✅ Shopping cart with add, remove, and quantity update
+- ✅ Checkout page with:
+  - Form validation
+  - Shipping and VAT calculation
+  - Order confirmation modal
+- ✅ Persistent cart using `localStorage`
+- ✅ Hover effects and polished UI
+- ✅ Modular file structure for scalability
+
+---
+
+## 🖥️ Technologies Used
+
+- React
+
+---
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## 🛠️ How to Use
 
-In the project directory, you can run:
+1. **Clone the repository**:
 
-### `npm start`
+   ```bash
+   git clone https://github.com/yourusername/audiophile-ecommerce.git
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2. Run **npm install** to install all dependencies
+3. Run **npm start**
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
+# 📸 Screenshots
+
+![Desktop - Home](https://github.com/user-attachments/assets/0a810630-ccfc-4f22-a3cc-844c300a9694)
+
+
 
